@@ -1,0 +1,6 @@
+-r requirements.txt
+setuptools
+coverage
+pytest
+pytest-asyncio
+mongomock_motor
